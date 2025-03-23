@@ -2,7 +2,7 @@
 
 This project allows users to generate songs with customizable genres and subjects using AI. The DJ Butterfly assistant helps you create music based on your preferences and continuously fetches the audio URL until your song is generated.
 
-
+[See our demo video](https://www.youtube.com/watch?v=uxPp8hf-0mA)
 
 ## Prerequisites
 
