@@ -72,7 +72,7 @@ const generateMusicConfig: ToolConfig = {
           customMode: true,
           instrumental,
           model: "V3_5",
-          callBackUrl: "https://2109-134-139-201-7.ngrok-free.app/webhook", // CALLBACK_URL
+          callBackUrl: "https://d2a6-134-139-201-7.ngrok-free.app/webhook", // CALLBACK_URL
         },
         {
           headers: {
